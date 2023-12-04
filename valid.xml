@@ -1,0 +1,38 @@
+<school_schedule>
+  <classes>
+    <class>
+      <name>CS182</name>
+      <instructor>Prof. Zhang</instructor>
+      <room>Dundee</room>
+      <time>11:00 - 11:50 AM</time>
+    </class>
+    <class>
+      <name>POSC111S</name>
+      <instructor>Prof. Wood</instructor>
+      <room>SSC 308</room>
+      <time>11:00 AM - 12:20 AM</time>
+    </class>
+  </classes>
+
+  <instructors>
+    <instructor>
+      <name>Prof. Zhang</name>
+      <email>qian.zhang@ucr.edu</email>
+    </instructor>
+    <instructor>
+      <name>Prof. Wood</name>
+      <email>joshua.wood@ucr.edu</email>
+    </instructor>
+  </instructors>
+
+  <rooms>
+    <room>
+      <name>Dundee</name>
+      <capacity>100</capacity>
+    </room>
+    <room>
+      <name>SSC 308</name>
+      <capacity>125</capacity>
+    </room>
+  </rooms>
+</school_schedule>
